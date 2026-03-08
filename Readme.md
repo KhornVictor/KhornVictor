@@ -19,7 +19,11 @@
 
 **Languages**
 
-- C, C++, Python, Assembly (NASM), Bash
+- C 
+- C++
+- Python
+- Assembly (NASM)
+- Bash
 
 **Tools & Technologies**
 
@@ -30,6 +34,7 @@
 
 - Operating Systems
 - Low-level memory management
+- Data structure and Algorithm
 - Computer Architecture
 
 ---
