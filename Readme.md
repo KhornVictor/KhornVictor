@@ -26,7 +26,7 @@
 
 ### 🛠 Skills
 
-<img src="https://www.testdevlab.com/_next/image?url=https%3A%2F%2Fcms.testdevlab.com%2Fcontent%2Fimages%2F2025%2F04%2F1--1-.webp&w=3840&q=75">
+<img style="width: 800px" src="https://www.testdevlab.com/_next/image?url=https%3A%2F%2Fcms.testdevlab.com%2Fcontent%2Fimages%2F2025%2F04%2F1--1-.webp&w=3840&q=75">
 
 **Languages**
 
