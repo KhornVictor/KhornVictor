@@ -1,4 +1,4 @@
-<img style="width: 800px; height:800px" src="https://scontent.fpnh10-1.fna.fbcdn.net/v/t39.30808-1/607576689_1389683129280068_369472678581688604_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeEDpJK510ud2touC2XH8BGSCVWkedAcuQcJVaR50By5B-WcMakWYmsSqq7Rbpmap-xV8ofYe-6XCndxITiMY439&_nc_ohc=t8w-XIXmdR4Q7kNvwH_6cRQ&_nc_oc=Adlv9SyS2IknKLIiX0fgk3gY6CEIQGUoDgOy5Uela7mTg9oi6ud_bnakeBDrQCm-px8&_nc_zt=24&_nc_ht=scontent.fpnh10-1.fna&_nc_gid=SBrUhnbepFqiy7BE3QqURw&_nc_ss=8&oh=00_AfxawTri3bYy8a9EAdtvfyfDqWiJxh7P2trR7GqmOdMGAQ&oe=69B2ED66">
+<img style="width: 400px; height:400px" src="https://scontent.fpnh10-1.fna.fbcdn.net/v/t39.30808-1/607576689_1389683129280068_369472678581688604_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeEDpJK510ud2touC2XH8BGSCVWkedAcuQcJVaR50By5B-WcMakWYmsSqq7Rbpmap-xV8ofYe-6XCndxITiMY439&_nc_ohc=t8w-XIXmdR4Q7kNvwH_6cRQ&_nc_oc=Adlv9SyS2IknKLIiX0fgk3gY6CEIQGUoDgOy5Uela7mTg9oi6ud_bnakeBDrQCm-px8&_nc_zt=24&_nc_ht=scontent.fpnh10-1.fna&_nc_gid=SBrUhnbepFqiy7BE3QqURw&_nc_ss=8&oh=00_AfxawTri3bYy8a9EAdtvfyfDqWiJxh7P2trR7GqmOdMGAQ&oe=69B2ED66">
 
 <h1 align="center">Hi 👋, I'm Khorn Victor</h1>
 
