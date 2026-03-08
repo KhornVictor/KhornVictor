@@ -4,6 +4,8 @@
   <b>🌟 Software Developer | 💻 Open Source Enthusiast | 🚀 Continuous Learner</b>
 </p>
 
+<img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
+
 ---
 
 ### 🔥 About Me
