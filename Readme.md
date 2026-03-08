@@ -1,4 +1,3 @@
-<img src="https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif">
 
 <h1 align="center">Hi 👋, I'm Khorn Victor</h1>
 
@@ -12,6 +11,8 @@
   <img style="width: 200px; height:200px" src="https://miro.medium.com/1*_wxwNuxszA6vwQIUMbF-fw.gif">
   <img style="width: 200px; height:200px" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyM2MwbXA2YWdnY2E1M2JyOWFlYmpvcGxqd25ocGgxeTZreW9sOXN4ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif">
 </div>
+
+<img src="https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif">
 
 ---
 
