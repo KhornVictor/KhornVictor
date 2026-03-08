@@ -19,11 +19,16 @@
 
 ### 🛠 Skills
 
-<img src="https://www.testdevlab.com/_next/image?url=https%3A%2F%2Fcms.testdevlab.com%2Fcontent%2Fimages%2F2025%2F04%2F1--1-.webp&w=3840&q=75">
+<div style="display: flex; flex-direction: column; gap: 16px; align-items: center;">
+  <img src="https://www.testdevlab.com/_next/image?url=https%3A%2F%2Fcms.testdevlab.com%2Fcontent%2Fimages%2F2025%2F04%2F1--1-.webp&w=3840&q=75">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyM2MwbXA2YWdnY2E1M2JyOWFlYmpvcGxqd25ocGgxeTZreW9sOXN4ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200.gif">
+  <img src="https://miro.medium.com/1*_wxwNuxszA6vwQIUMbF-fw.gif">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyM2MwbXA2YWdnY2E1M2JyOWFlYmpvcGxqd25ocGgxeTZreW9sOXN4ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif">
+</div>
 
 **Languages**
 
-- C 
+- C
 - C++
 - Python
 - Assembly (NASM)
@@ -69,4 +74,4 @@
 
 > "The best code is the one that teaches you something."
 
-⭐️ From [Khorn  Victor](https://github.com/KhornVictor)
+⭐️ From [Khorn Victor](https://github.com/KhornVictor)
