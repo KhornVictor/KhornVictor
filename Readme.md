@@ -37,6 +37,9 @@ languages:
   - Python
   - Assembly (NASM)
   - Bash
+  - Java
+  - JavaScript
+  - Typescript
 toolsAndTechnologies:
   - Linux
   - Git
