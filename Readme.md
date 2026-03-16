@@ -57,36 +57,6 @@ concepts:
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
-
-</div>
-
----
-
-### 🤝 Connect With Me
-
-<p>
-<a href="https://linkedin.com/in/YOUR_USERNAME">LinkedIn</a> • 
-<a href="victorkhornkh@gmail.com">Email</a> • 
-<a href="https://YOUR_PORTFOLIO_SITE">Portfolio</a>
-</p>
-
----
-
-### 🎯 Motto
-
-> "The best code is the one that teaches you something."
-
-⭐️ From [Khorn Victor](https://github.com/KhornVictor)
-
-<h1 align="center">Hey 👋What's Up?</h1>
-
 ###
 
 <div align="center">
