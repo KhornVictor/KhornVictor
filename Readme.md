@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Khorn Victor</h1>
-
+<h1 align="center">Hello 👋, I'm Khorn Victor</h1>
+<h2 align="center">DGON 🦖</h2>
 <p align="center">
   <b>🌟 Software Developer | 💻 Open Source Enthusiast | 🚀 Continuous Learner</b>
 </p>
