@@ -1,4 +1,6 @@
-# Khorn Victor 👨‍💻
+<h1 align="center">
+  <b>Khorn Victor 👨‍💻</b>
+</h1>
 
 <p align="center">
   <b>🌟 Software Developer | 💻 Open Source Enthusiast | 🚀 Continuous Learner</b>
