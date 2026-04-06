@@ -1,4 +1,5 @@
-<h1 align="center">Hello 👋, I'm Khorn Victor</h1>
+# Khorn Victor 👨‍💻
+
 <p align="center">
   <b>🌟 Software Developer | 💻 Open Source Enthusiast | 🚀 Continuous Learner</b>
 </p>
