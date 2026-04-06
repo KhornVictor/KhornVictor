@@ -39,6 +39,7 @@ languages:
   - Java
   - JavaScript
   - Typescript
+
 toolsAndTechnologies:
   - Linux
   - Git
@@ -47,11 +48,13 @@ toolsAndTechnologies:
   - GCC
   - GDB
   - Linux Kernel basics
+
 concepts:
   - Operating Systems
   - Low-level memory management
   - Data structure and Algorithm
   - Computer Architecture
+
 ```
 
 ---
