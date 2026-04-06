@@ -54,20 +54,25 @@ My life is a constant fight between who I am and who I want to become. Every day
 
 ---
 
-### 🔥 About Me
+###
 
-- 🌱 I’m currently learning: HTML, CSS, and Javascript
-- ⚙️ Passionate about web developement and creating system logic
+## 🔥 About Me
+
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMWtjZDJsNnkxdWs2MDgxMXg5cTM2cmd3bzB2M29kdXpudHJvcnNzNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/v73akjBbJdzOfJ67n7/source.gif" width="200"/>
+
+- 🌱 I’m currently learning: **HTML, CSS, and JavaScript**
+- ⚙️ Passionate about **web development** and creating system logic
 - 🧩 I enjoy breaking down complex systems and rebuilding them more efficiently
-- 🚀 Currently building: small tools, experiments, and system-level projects
-- 🤝 Open to collaborating on open-source projects (especially low-level or backend systems)
-- 🧠 Fun fact: I debug code like a detective 🕵️‍♂️ — every bug tells a story
-- 🛠️ Tech I like: C, C++, Rust (learning), Linux
-- 📚 Always learning about: Operating Systems, Compilers, and Computer Architecture
-- 🎯 Goal: Become a systems engineer who writes fast, reliable, and elegant code
-- ☕ Bonus: I can spend hours fixing one bug… and enjoy it 😄
+- 🚀 Currently building: **small tools, experiments, and system-level projects**
+- 🤝 Open to collaborating on **open-source projects**
+- 🧠 Fun fact: I debug code like a detective 🕵️‍♂️
+- 🛠️ Tech I like: **C, C++, Rust, Linux**
+- 🎯 Goal: Become a **systems engineer**
+
 
 ---
+
+###
 
 ### 🛠 Skills
 
