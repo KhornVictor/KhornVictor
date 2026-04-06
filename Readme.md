@@ -100,22 +100,76 @@ languages:
   - Bash
   - Java
   - JavaScript
-  - Typescript
+  - TypeScript
+  - PHP
+  - R
 
-toolsAndTechnologies:
+frontend:
+  - HTML5
+  - CSS3
+  - Tailwind CSS
+  - Bootstrap
+  - React
+  - Next.js
+  - Vue.js
+  - Angular
+  - AngularJS
+  - SolidJS
+  - React Router
+  - React Hook Form
+  - SASS
+
+backend:
+  - Node.js
+  - Express.js
+  - NestJS
+  - FastAPI
+  - Flask
+  - Laravel
+  - EJS
+
+devops_and_cloud:
+  - Docker
+  - AWS
+  - Google Cloud
+  - Nginx
+  - Apache
+  - Apache Tomcat
+  - Jenkins
+  - GitHub Actions
+  - GitLab CI
+  - Netlify
+  - Vercel
+
+databases:
+  - MySQL
+  - PostgreSQL
+  - Prisma
+
+tools:
   - Linux
   - Git
-  - Docker
   - VS Code
   - GCC
   - GDB
-  - Linux Kernel basics
+  - Windows Terminal
+  - NPM
+  - Yarn
+  - PNPM
+  - Bun
 
 concepts:
   - Operating Systems
-  - Low-level memory management
-  - Data structure and Algorithm
+  - Low-level Memory Management
+  - Data Structures and Algorithms
   - Computer Architecture
+  - Linux Kernel Basics
+
+other:
+  - LaTeX
+  - Markdown
+  - PowerShell
+  - JWT
 
 ```
 
