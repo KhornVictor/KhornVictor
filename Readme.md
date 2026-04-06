@@ -2,7 +2,9 @@
   <b>Khorn Victor 👨‍💻</b>
 </h1>
 
-My life is a constant fight between who I am and who I want to become. Every day, I push through uncertainty, discipline my mind, and challenge my limits to grow stronger and wiser. I embrace the struggle because I know it’s shaping me into something greater. I don’t fear failure I use it. I don’t avoid difficulty—I seek it. Because deep down, I know that everything I’m going through is building a version of me that refuses to settle.
+```text
+My life is a constant fight between who I am and who I want to become. Every day, I push through uncertainty, discipline my mind, and challenge my limits to grow stronger and wiser. I embrace the struggle because I know it’s shaping me into something greater. I don’t fear failure I use it. I don’t avoid difficulty I seek it. Because deep down, I know that everything I’m going through is building a version of me that refuses to settle.
+```
 
 <p align="center">
   <b>🌟 Software Developer | 💻 Open Source Enthusiast | 🚀 Continuous Learner</b>
