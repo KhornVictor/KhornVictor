@@ -16,10 +16,16 @@
 
 ### 🔥 About Me
 
-- 🌱 I’m currently learning: **Assembly, Systems Programming**
-- 💡 I love exploring low-level concepding efficientts and buil solutions
-- 🤝 I’m looking to collaborate on **open-source projects**
-- 🧠 Fun fact: I debug code like a detective 🕵️‍♂️
+- 🌱 I’m currently learning: HTML, CSS, and Javascript
+- ⚙️ Passionate about web developement and creating system logic
+- 🧩 I enjoy breaking down complex systems and rebuilding them more efficiently
+- 🚀 Currently building: small tools, experiments, and system-level projects
+- 🤝 Open to collaborating on open-source projects (especially low-level or backend systems)
+- 🧠 Fun fact: I debug code like a detective 🕵️‍♂️ — every bug tells a story
+- 🛠️ Tech I like: C, C++, Rust (learning), Linux
+- 📚 Always learning about: Operating Systems, Compilers, and Computer Architecture
+- 🎯 Goal: Become a systems engineer who writes fast, reliable, and elegant code
+- ☕ Bonus: I can spend hours fixing one bug… and enjoy it 😄
 
 ---
 
