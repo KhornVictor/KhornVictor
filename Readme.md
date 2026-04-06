@@ -46,8 +46,6 @@ My life is a constant fight between who I am and who I want to become. Every day
   </a>
 </div>
 
-###
-
 ---
 
 <p align="center">
