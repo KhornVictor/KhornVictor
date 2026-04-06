@@ -56,7 +56,7 @@ My life is a constant fight between who I am and who I want to become. Every day
 
 ## 🔥 About Me
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMWtjZDJsNnkxdWs2MDgxMXg5cTM2cmd3bzB2M29kdXpudHJvcnNzNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/v73akjBbJdzOfJ67n7/source.gif" width="200"/>
+<img align="right" src="https://usagif.com/wp-content/uploads/2022/hqgif/ghost-50-pixel-ghost-transparent-background.gif" width="200"/>
 
 - 🌱 I’m currently learning: **HTML, CSS, and JavaScript**
 - ⚙️ Passionate about **web development** and creating system logic
