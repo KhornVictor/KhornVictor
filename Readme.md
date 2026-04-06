@@ -32,7 +32,7 @@
 ### 🛠 Skills
 
 <p align="center">
-  <img width="800px" height="800px" src="https://www.testdevlab.com/_next/image?url=https%3A%2F%2Fcms.testdevlab.com%2Fcontent%2Fimages%2F2025%2F04%2F1--1-.webp&w=3840&q=75">
+  <img width="800px" height="800px" src="https://i.pinimg.com/originals/ec/5f/37/ec5f377a267f9e999a5f4b13bd0fb102.gif">
 </p>
 
 ```yml
