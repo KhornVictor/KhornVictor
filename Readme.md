@@ -64,10 +64,9 @@ My life is a constant fight between who I am and who I want to become. Every day
 - 🛠️ Tech I like: **C, C++, Rust, Linux**
 - 🎯 Goal: Become a **systems engineer**
 
-
----
-
 ###
+
+<img src="https://raw.githubusercontent.com/KhornVictor/KhornVictor/output/snake.svg" alt="Snake animation" />
 
 ### 🛠 Skills
 
