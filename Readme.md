@@ -165,7 +165,8 @@ other:
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<div align="center">
+<img align="right" src="https://usagif.com/wp-content/uploads/2022/hqgif/ghost-50-pixel-ghost-transparent-background.gif" width="200"/>
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=KhornVictor&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
