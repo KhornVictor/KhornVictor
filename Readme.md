@@ -165,6 +165,11 @@ other:
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KhornVictor&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=KhornVictor&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=footer&reversal=false&text=%F0%9F%A6%96%20GIT%20CONTRIBUTION&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=50&stroke=b9131a&strokeWidth=2&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
