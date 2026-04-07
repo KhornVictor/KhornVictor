@@ -39,6 +39,8 @@ My life is a constant fight between who I am and who I want to become. Every day
 ###
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhornVictor/KhornVictor/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhornVictor/KhornVictor/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KhornVictor/KhornVictor/output/pacman-contribution-graph.svg">
 </picture>
 
