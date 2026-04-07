@@ -34,7 +34,7 @@ My life is a constant fight between who I am and who I want to become. Every day
 
 </div>
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <p align="center">
   <b>🌟 Software Developer | 💻 Open Source Enthusiast | 🚀 Continuous Learner</b>
