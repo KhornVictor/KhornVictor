@@ -42,6 +42,10 @@ My life is a constant fight between who I am and who I want to become. Every day
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+###
+
+## 🔥 About Me
+
 <p align="center">
   <b>🌟 Software Developer | 💻 Open Source Enthusiast | 🚀 Continuous Learner</b>
 </p>
@@ -52,10 +56,6 @@ My life is a constant fight between who I am and who I want to become. Every day
   <img style="width: 200px; height:200px" src="https://miro.medium.com/1*_wxwNuxszA6vwQIUMbF-fw.gif">
   <img style="width: 200px; height:200px" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif">
 </div>
-
-###
-
-## 🔥 About Me
 
 <img align="right" src="https://usagif.com/wp-content/uploads/2022/hqgif/ghost-50-pixel-ghost-transparent-background.gif" width="200"/>
 
