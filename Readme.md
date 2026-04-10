@@ -49,7 +49,7 @@ My life is a constant fight between who I am and who I want to become. Every day
   <img style="width: 200px; height:200px" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif">
 </div>
 
-<img align="right" src="https://usagif.com/wp-content/uploads/2022/hqgif/ghost-50-pixel-ghost-transparent-background.gif" width="200"/>
+<img width="12" height="12" align="right" src="https://usagif.com/wp-content/uploads/2022/hqgif/ghost-50-pixel-ghost-transparent-background.gif" width="200"/>
 
 - 🌱 I’m currently learning: **HTML, CSS, and JavaScript**
 - ⚙️ Passionate about **web development** and creating system logic
