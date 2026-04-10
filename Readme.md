@@ -158,7 +158,7 @@ other:
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <img align="right" src="https://cdn.pixabay.com/animation/2025/06/03/07/48/07-48-25-251_512.gif" width="200"/>
-<img align="left" src="https://colinbendell.cloudinary.com/image/upload/c_crop,f_auto,g_auto,h_350,w_400/v1512090971/Wizard-Clap-by-Markus-Magnusson.gif" width="200"/>
+<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZDFjNGMzNGRoaW8wbXRubGdoZmdrNW90bzJ3a2hhbThnd3dyc3VvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pSS0GqISqT0BDeYWjm/giphy.gif" width="200"/>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=KhornVictor&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
