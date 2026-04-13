@@ -2,7 +2,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=KHORN%20VICTOR&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=50&stroke=56b5e6&strokeWidth=2&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-My life is a constant fight between who I am and who I want to become. Every day, I push through uncertainty, discipline my mind, and challenge my limits to grow stronger and wiser. I embrace the struggle because I know it’s shaping me into something greater. I don’t fear failure I use it. I don’t avoid difficulty I seek it. Because deep down, I know that everything I’m going through is building a version of me that refuses to settle.
+My life is a constant fight between who I am and who I want to become. Every day, I push through uncertainty, discipline my mind, and challenge my limits to grow stronger and wiser. I embrace the struggle because I know it’s shaping me into something greater. I don’t fear failure I use it. I don’t avoid difficulty I seek it. Because deep down, I know that everything I’m going through is building a version of me that refuses to settle. rdgergr
 
 ###
 
