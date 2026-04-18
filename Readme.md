@@ -50,7 +50,7 @@ My life is a constant fight between who I am and who I want to become. Every day
   <b>🌟 Software Developer | 💻 Open Source Enthusiast | 🚀 Continuous Learner</b>
 </p>
 
-<img width="100" height="100" align="right" src="https://usagif.com/wp-content/uploads/2022/hqgif/ghost-50-pixel-ghost-transparent-background.gif" width="200"/>
+<img width="200" height="200" align="right" src="https://usagif.com/wp-content/uploads/2022/hqgif/ghost-50-pixel-ghost-transparent-background.gif"/>
 
 - 🌱 I’m currently learning: **HTML, CSS, and JavaScript**
 - ⚙️ Passionate about **web development** and creating system logic
