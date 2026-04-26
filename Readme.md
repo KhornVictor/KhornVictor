@@ -45,7 +45,7 @@ My life is a constant fight between who I am and who I want to become. Every day
 <div style="display: flex; flex-direction: column; gap: 16px; align-items: center;">
   <img style="width: 200px; height:200px" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
   <img style="width: 200px; height:200px" src="https://gifsec.com/wp-content/uploads/2022/10/cute-anime-girl-3.gif">
-  <img style="width: 200px; height:200px" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyM2MwbXA2YWdnY2E1M2JyOWFlYmpvcGxqd25ocGgxeTZreW9sOXN4ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200.gif">
+  <img style="width: 200px; height:200px" src="https://i.redd.it/zcxr7kn97kv91.gif">
   <img style="width: 200px; height:200px" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif">
 </div>
 
