@@ -234,6 +234,10 @@ other:
 ```
 
 <p align="center">
+  <img width="800px" height="800px" src="https://gifsec.com/wp-content/uploads/2022/11/smooth-anime-gif-1.gif">
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhornVictor&theme=react&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20activity&radius=8" width="100%" />
 </p>
 
