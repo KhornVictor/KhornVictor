@@ -231,8 +231,6 @@ other:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhornVictor&theme=react&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20activity&radius=8" width="100%" />
 </p>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 <!-- <img align="right" src="https://cdn.pixabay.com/animation/2025/06/03/07/48/07-48-25-251_512.gif" width="200"/>
 <img align="left" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMGU3bWFnaWk2Mnh4ZXdyNXVqbndpeDZ2Zmg0OWl5ejNsbXBtcTA0aSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/njON3jEmTYHEfRbfsk/giphy.gif" width="200"/>
 <div align="center">
@@ -243,6 +241,8 @@ other:
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KhornVictor&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&border_radius=8" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KhornVictor&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=8" />
 </p>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=footer&reversal=false&text=%F0%9F%A6%96%20GIT%20CONTRIBUTION&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=50&stroke=b9131a&strokeWidth=2&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
