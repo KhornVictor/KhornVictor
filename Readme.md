@@ -227,6 +227,10 @@ other:
 
 ```
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhornVictor&theme=react&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20activity&radius=8" width="100%" />
+</p>
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <img align="right" src="https://cdn.pixabay.com/animation/2025/06/03/07/48/07-48-25-251_512.gif" width="200"/>
