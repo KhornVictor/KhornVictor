@@ -232,7 +232,7 @@ other:
 </p>
 
 <img align="right" src="https://cdn.pixabay.com/animation/2025/06/03/07/48/07-48-25-251_512.gif" width="200"/>
-<img align="left" src="https://31.media.tumblr.com/tumblr_mc23i6syO01rfjowdo1_500.gif" width="200"/>
+<img align="left" src="https://usagif.com/wp-content/uploads/gifs/fish-128.gif" width="200"/>
 <p align="center" >
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KhornVictor&layout=compact&langs_count=8&theme=algolia"/>
 </p>
