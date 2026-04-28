@@ -232,7 +232,7 @@ other:
 </p>
 
 <img align="right" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/775dfae9-f9b5-46c9-bcd8-62e7d40ba177/dg8idr3-46121b2a-2beb-4f64-9caa-0d046f39eac0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83NzVkZmFlOS1mOWI1LTQ2YzktYmNkOC02MmU3ZDQwYmExNzcvZGc4aWRyMy00NjEyMWIyYS0yYmViLTRmNjQtOWNhYS0wZDA0NmYzOWVhYzAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2UQBQP1s0fq_JRhybnoGbaJtZjAl6n_G-VE0OXRQpQ8" width="200"/>
-<img align="left" src="https://usagif.com/wp-content/uploads/gifs/fish-128.gif" width="200"/>
+<img align="left" src="https://media.giphy.com/media/aGJw0QaCx04Wk/giphy.gif" width="200"/>
 <p align="center" >
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KhornVictor&layout=compact&langs_count=8&theme=algolia"/>
 </p>
