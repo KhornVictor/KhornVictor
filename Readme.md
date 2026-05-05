@@ -234,7 +234,7 @@ other:
 ```
 
 <p align="center">
-  <img width="800px" height="800px" src="https://gifsec.com/wp-content/uploads/2022/11/smooth-anime-gif-1.gif">
+  <img width="800px" height="800px" src="./assets/jujensuKaisen.gif">
 </p>
 
 <p align="center">
