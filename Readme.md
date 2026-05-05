@@ -71,7 +71,7 @@ My life is a constant fight between who I am and who I want to become. Every day
 ### 🛠 Skills
 
 <p align="center">
-  <img width="800px" height="800px" src="https://i.pinimg.com/originals/ec/5f/37/ec5f377a267f9e999a5f4b13bd0fb102.gif">
+  <img width="800px" height="800px" src="./assets/luffyDMonkey.gif">
 </p>
 
 <img src="https://raw.githubusercontent.com/KhornVictor/KhornVictor/output/snake.svg" alt="Snake animation" />
