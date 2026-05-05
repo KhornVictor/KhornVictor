@@ -249,7 +249,7 @@ other:
 
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KhornVictor&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&border_radius=8" />
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KhornVictor&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&border_radius=8" /> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KhornVictor&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=8" />
 </p>
 
@@ -257,7 +257,7 @@ other:
     <source media="(prefers-color-scheme: dark)" srcset="https://contribution.oooo.so/_/KhornVictor?chart=3dbar&gap=2&scale=1.8&gradient=true&legend=true&legendPosition=bottomLeft&legendDirection=row&strokeWidth=2&strokeColor=003300&flatten=0&animation=wave&animation_duration=2&animation_delay=0.03&animation_amplitude=40&animation_frequency=0.2&animation_wave_center=0_6&weeks=36&theme=emerald_canopy&dark=true&format=svg">
     <source media="(prefers-color-scheme: light)" srcset="https://contribution.oooo.so/_/KhornVictor?chart=3dbar&gap=2&scale=1.8&gradient=true&legend=true&legendPosition=bottomLeft&legendDirection=row&strokeWidth=2&strokeColor=224422&flatten=0&animation=wave&animation_duration=2&animation_delay=0.03&animation_amplitude=40&animation_frequency=0.2&animation_wave_center=0_6&weeks=36&theme=native&format=svg">
     <img alt="" src="https://contribution.oooo.so/_/KhornVictor?chart=3dbar&gap=2&scale=1.8&gradient=true&legend=true&legendPosition=bottomLeft&legendDirection=row&strokeWidth=2&strokeColor=224422&flatten=0&animation=wave&animation_duration=2&animation_delay=0.03&animation_amplitude=40&animation_frequency=0.2&animation_wave_center=0_6&weeks=36&theme=native&format=svg" >
-  </picture>
+</picture>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
