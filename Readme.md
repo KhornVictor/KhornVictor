@@ -49,13 +49,13 @@ My life is a constant fight between who I am and who I want to become. Every day
 </p>
 
 <div style="display: flex; flex-direction: column; gap: 16px; align-items: center;">
-  <img style="width: 200px; height:200px" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
-  <img style="width: 200px; height:200px" src="https://gifsec.com/wp-content/uploads/2022/10/cute-anime-girl-3.gif">
-  <img style="width: 200px; height:200px" src="https://i.pinimg.com/originals/17/52/2f/17522fdf5d21b805a3889d1720c290e5.gif">
-  <img style="width: 200px; height:200px" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif">
+  <img style="width: 200px; height:200px" src="./assets/computerAssembly.gif">
+  <img style="width: 200px; height:200px" src="./assets/girlKnock.gif">
+  <img style="width: 200px; height:200px" src="./assets/girlCute.gif">
+  <img style="width: 200px; height:200px" src="./assets/cat.gif">
 </div>
 
-<img style="width: 200px; height:200px" align="right" src="https://usagif.com/wp-content/uploads/2022/hqgif/ghost-50-pixel-ghost-transparent-background.gif"/>
+<img style="width: 200px; height:200px" align="right" src="./assets/ghost.gif"/>
 
 - 🌱 I’m currently learning: **HTML, CSS, and JavaScript**
 - ⚙️ Passionate about **web development** and creating system logic
