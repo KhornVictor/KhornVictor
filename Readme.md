@@ -6,7 +6,7 @@ My life is a constant fight between who I am and who I want to become. Every day
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/OkoScrMcY324r1j1HZ/source.gif"  />
+<img align="right" height="150" src="./assets/toothless.gif"  />
 
 ###
 
