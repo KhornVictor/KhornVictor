@@ -118,27 +118,31 @@ My life is a constant fight between who I am and who I want to become. Every day
   <img width="800px" height="800px" src="./assets/jujensuKaisen.gif">
 </p>
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhornVictor&theme=react&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20activity&radius=8" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=KhornVictor&color=0070f3&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhornVictor&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&border_radius=8" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KhornVictor&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=8" />
 </p>
 
 <img align="right" src="./assets/caterine.gif" width="200"/>
 <img align="left" src="./assets/fox.gif" width="200"/>
-<p align="center" >
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KhornVictor&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
-
 <p align="center">
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KhornVictor&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&border_radius=8" /> -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KhornVictor&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=8" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KhornVictor&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
 </p>
+
+<br />
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://contribution.oooo.so/_/KhornVictor?chart=3dbar&gap=2&scale=1.8&gradient=true&legend=true&legendPosition=bottomLeft&legendDirection=row&strokeWidth=2&strokeColor=003300&flatten=0&animation=wave&animation_duration=2&animation_delay=0.03&animation_amplitude=40&animation_frequency=0.2&animation_wave_center=0_6&weeks=36&theme=emerald_canopy&dark=true&format=svg">
     <source media="(prefers-color-scheme: light)" srcset="https://contribution.oooo.so/_/KhornVictor?chart=3dbar&gap=2&scale=1.8&gradient=true&legend=true&legendPosition=bottomLeft&legendDirection=row&strokeWidth=2&strokeColor=224422&flatten=0&animation=wave&animation_duration=2&animation_delay=0.03&animation_amplitude=40&animation_frequency=0.2&animation_wave_center=0_6&weeks=36&theme=native&format=svg">
-    <img alt="" src="https://contribution.oooo.so/_/KhornVictor?chart=3dbar&gap=2&scale=1.8&gradient=true&legend=true&legendPosition=bottomLeft&legendDirection=row&strokeWidth=2&strokeColor=224422&flatten=0&animation=wave&animation_duration=2&animation_delay=0.03&animation_amplitude=40&animation_frequency=0.2&animation_wave_center=0_6&weeks=36&theme=native&format=svg" >
+    <img alt="Contribution Graph" src="https://contribution.oooo.so/_/KhornVictor?chart=3dbar&gap=2&scale=1.8&gradient=true&legend=true&legendPosition=bottomLeft&legendDirection=row&strokeWidth=2&strokeColor=224422&flatten=0&animation=wave&animation_duration=2&animation_delay=0.03&animation_amplitude=40&animation_frequency=0.2&animation_wave_center=0_6&weeks=36&theme=native&format=svg">
 </picture>
+
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
