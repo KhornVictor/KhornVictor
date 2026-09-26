@@ -146,7 +146,10 @@ My life is a constant fight between who I am and who I want to become. Every day
 </picture>
 
 <p align="center">
-  <img width="800px" height="800px" src="./assets/YourName.gif">
+  <img width="200px" height="800px" src="./assets/YourName.gif">
+  <img width="200px" height="800px" src="./assets/YourName.gif">
+  <img width="200px" height="800px" src="./assets/YourName.gif">
+  <img width="200px" height="800px" src="./assets/YourName.gif">
 </p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
