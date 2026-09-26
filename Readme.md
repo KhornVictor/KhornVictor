@@ -148,7 +148,7 @@ My life is a constant fight between who I am and who I want to become. Every day
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <p align="center">
-  <img width="200px" height="200px" src="./assets/YourName.gif">
+  <img width="200px" height="200px" src="./assets/Tanshiro.gif">
   <img width="200px" height="200px" src="./assets/Heheh.gif">
   <img width="200px" height="200px" src="./assets/YourName.gif">
   <img width="200px" height="200px" src="./assets/YourName.gif">
