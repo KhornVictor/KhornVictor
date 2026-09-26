@@ -151,7 +151,7 @@ My life is a constant fight between who I am and who I want to become. Every day
   <img width="200px" height="200px" src="./assets/Tanshiro.gif">
   <img width="200px" height="200px" src="./assets/Nezuko.gif">
   <img width="200px" height="200px" src="./assets/Zenitsu.gif">
-  <img width="200px" height="200px" src="./assets/YourName.gif">
+  <img width="200px" height="200px" src="./assets/Inosuke.gif">
 </p>
 
 
