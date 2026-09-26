@@ -145,6 +145,8 @@ My life is a constant fight between who I am and who I want to become. Every day
     <img alt="Contribution Graph" src="https://contribution.oooo.so/_/KhornVictor?chart=3dbar&gap=2&scale=1.8&gradient=true&legend=true&legendPosition=bottomLeft&legendDirection=row&strokeWidth=2&strokeColor=224422&flatten=0&animation=wave&animation_duration=2&animation_delay=0.03&animation_amplitude=40&animation_frequency=0.2&animation_wave_center=0_6&weeks=36&theme=native&format=svg">
 </picture>
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <p align="center">
   <img width="200px" height="200px" src="./assets/YourName.gif">
   <img width="200px" height="200px" src="./assets/Heheh.gif">
@@ -152,7 +154,6 @@ My life is a constant fight between who I am and who I want to become. Every day
   <img width="200px" height="200px" src="./assets/YourName.gif">
 </p>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=footer&reversal=false&text=%F0%9F%A6%96%20GIT%20CONTRIBUTION&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=50&stroke=b9131a&strokeWidth=2&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
