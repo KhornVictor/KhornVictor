@@ -119,10 +119,6 @@ My life is a constant fight between who I am and who I want to become. Every day
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="./assets/2441276_50f41.gif" alt="Profile Views" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=KhornVictor&color=0070f3&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
