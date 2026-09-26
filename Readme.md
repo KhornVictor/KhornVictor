@@ -147,7 +147,7 @@ My life is a constant fight between who I am and who I want to become. Every day
 
 <p align="center">
   <img width="200px" height="200px" src="./assets/YourName.gif">
-  <img width="200px" height="200px" src="./assets/YourName.gif">
+  <img width="200px" height="200px" src="./assets/Heheh.gif">
   <img width="200px" height="200px" src="./assets/YourName.gif">
   <img width="200px" height="200px" src="./assets/YourName.gif">
 </p>
